@@ -1,0 +1,21 @@
+package exercicioum;
+
+import java.util.Scanner;
+
+public class ExercicioUm {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner t = new Scanner(System.in);
+		System.out.print("Digite um número: ");
+		int n = t.nextInt();
+		System.out.println("Seu número é: " + n);
+		if (n<=(-1)){
+			System.out.println("Não Negativo");
+		} else {
+			System.out.println("Negativo");
+		}
+
+	}
+
+}

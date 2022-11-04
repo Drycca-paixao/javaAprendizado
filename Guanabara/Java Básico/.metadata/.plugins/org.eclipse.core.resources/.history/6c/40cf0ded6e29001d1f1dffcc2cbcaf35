@@ -1,0 +1,22 @@
+package exerciciofinal;
+
+public class Questao2 {
+	
+		public static void main(String[] args) {
+			  /* String nome = "João";
+			   imprimeNome("Empty");
+		}
+		public static void imprimeNome(String nome) {
+			   if(!nome.isEmpty()){
+				    System.out.println("Tudo bem " + nome + "?");
+			   } else { 
+				    System.out.println("O nome é " + nome + "?");
+			   }*/
+			
+			for (int i = 1; i < 5; i++) {
+				if (i==2) continue;
+				System.out.print("i = " + i); 
+			}
+	}
+
+}

@@ -1,0 +1,10 @@
+package sistemadevotacao;
+
+public class SistemaDeVotacao {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

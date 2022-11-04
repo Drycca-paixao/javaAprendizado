@@ -1,0 +1,10 @@
+package operadoreslogicos;
+
+public class OperadoresLoicos {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

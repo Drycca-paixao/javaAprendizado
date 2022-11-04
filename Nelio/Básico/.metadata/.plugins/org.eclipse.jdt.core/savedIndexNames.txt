@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\app\ws-eclipse\Nelio\Básico\.metadata\.plugins\org.eclipse.jdt.core
+4259117699.index
+2037269942.index
+4248482006.index
+4063444889.index
+1865797976.index
+3572435693.index
+1817175013.index
+1272259242.index

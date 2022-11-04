@@ -1,0 +1,25 @@
+package testemesa;
+
+import java.util.Scanner;
+
+public class TesteMesa {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		int x = sc.nextInt();
+		int y = 0;
+		x = 5;
+		
+		
+		while (x>2) {
+			y += x;
+			x += (-1);
+			
+			System.out.println(x);
+		}
+
+
+	}
+
+}
